@@ -1,4 +1,4 @@
-**🚴‍♂️ Citi Bike Program Analysis 🚴‍♀️  **
+**🚴‍♂️ Citi Bike Program Analysis 🚴‍♀️**
 
 Welcome to the Citi Bike Program Analysis repository! This project uses Tableau to create visualizations and dashboards for New York City's Citi Bike program, providing insights to help city officials improve the bike-sharing service.  
 
