@@ -8,15 +8,15 @@ This repository contains Tableau visualizations that analyze the Citi Bike progr
 📊 Visualizations
 Tablue : https://public.tableau.com/app/profile/jasleen.shergill/viz/NYCitiBike_17164331631740/Story2?publish=yes 
 
--Top 10 popular stations ( start and Ending)
--Number of rides per week
--Distance travelled vs number of rides per membership type
--Map showing rider traffic for Start and End Station
--Number of rides per week 
--Bubble map for ride per hour
-
+-Top 10 popular stations ( start and Ending)  
+-Number of rides per week  
+-Distance travelled vs number of rides per membership type  
+-Map showing rider traffic for Start and End Station  
+-Number of rides per week   
+-Bubble map for ride per hour  
+  
 🗺️ Map
-An interactive map displays station popularity by Station ID.
+An interactive map displays station popularity by Station ID.  
 
 📚 Conclusion
 These visualizations and dashboards provide valuable insights into the Citi Bike program, helping to optimize service and enhance user experience.
